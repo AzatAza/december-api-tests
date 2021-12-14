@@ -9,6 +9,8 @@ python = "^3.9"
 pytest = "^6.2.5"
 requests = "^2.26.0"
 Faker = "^10.0.0"
+cattrs = "^1.9.0"
+attrs = "^21.2.0"
 
 [tool.poetry.dev-dependencies]
 
