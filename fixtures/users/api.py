@@ -1,9 +1,7 @@
 from requests import Response
 import requests
-import cattr
 
 from fixtures.auth.model import AuthResponse
-from fixtures.register.models import RegisterUserResponse
 
 from common.deco import logging as log
 
